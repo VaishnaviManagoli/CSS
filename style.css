@@ -1,0 +1,25 @@
+h1{
+color: orange;
+border: solid;
+}
+*{
+border : solid; 
+}
+.header{
+background-color: blueviolet;
+}
+
+.line{
+    background-color: cornflowerblue;
+}
+
+.container{
+    display : flex;
+    flex-direction:  row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+  border : solid;
+}
